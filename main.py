@@ -120,7 +120,7 @@ class SpokenToWritten:
 
 
 #main function 
-def convert_sp_to_wr():
+def conv_sp2wr():
     #creating class object
     obj_spoken=SpokenToWritten()
     obj_spoken.get_user_input()
