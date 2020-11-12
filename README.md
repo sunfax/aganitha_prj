@@ -1,8 +1,5 @@
 # aganitha_prj
 
 
-to run simply type following in cmd
+to run simply run main.py file in python compiler
 
- >>python3
- >>import main
- >>sp2wr.conv_sp2wr()
