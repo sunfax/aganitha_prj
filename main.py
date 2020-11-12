@@ -5,7 +5,7 @@ from front_last import check_front_last
 
 from sp2wr import SpokenToWritten
 
-def convert_sp_to_wr():
+def conv_sp2wr():
     spoken=SpokenToWritten()
     spoken.get_user_input()
     spoken.Convert()
@@ -13,4 +13,4 @@ def convert_sp_to_wr():
 
     spoken.show_output()
 
-convert_sp_to_wr()
+conv_sp2wr()
